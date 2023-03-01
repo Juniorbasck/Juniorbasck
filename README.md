@@ -4,7 +4,6 @@
 
 - 🔭 Eu atualmente sou estagiario em Revops na Forsign 
 - 🌱 Eu atualmente estou estudando JavaScript, Node.js e React 
-- 😄 Pronouns: ele/dele
 
 ##
 
