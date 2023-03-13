@@ -63,6 +63,12 @@
       </a>
       <br>Vue.js
     </td>
+    <td align="center" width="96">
+      <a href="#git" >
+        <img src="https://skillicons.dev/icons?i=c++" width="48" height="48" alt="C++" />
+      </a>
+      <br>C++
+    </td>
 </tr>
 
 </table>
