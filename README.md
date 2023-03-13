@@ -59,9 +59,9 @@
     </td>
     <td align="center" width="96">
       <a href="#git" >
-        <img src="https://skillicons.dev/icons?i=vue.js" width="48" height="48" alt="vue.js" />
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="vue" />
       </a>
-      <br>React.js
+      <br>Vue.js
     </td>
 </tr>
 
