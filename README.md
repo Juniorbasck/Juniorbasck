@@ -1,9 +1,8 @@
-### Ola! Sou o junior estudante de TI na Federal de São Paulo 👋
+### Hey there! My name is junior my GitHub!😁👋
 
 ##
 
-- 🔭 Eu atualmente sou estagiario em Revops na Forsign 
-- 🌱 Eu atualmente estou estudando JavaScript, Node.js e React 
+- 🔭 I'm a student of information systems in Federal University of São Paulo, currently i'm focused on developing my skills in programming. I am currently studying front-end with React, Vue.js, HTML, CSS.
 
 ##
 
