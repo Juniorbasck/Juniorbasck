@@ -57,6 +57,12 @@
       </a>
       <br>React.js
     </td>
+    <td align="center" width="96">
+      <a href="#git" >
+        <img src="https://skillicons.dev/icons?i=vue.js" width="48" height="48" alt="vue.js" />
+      </a>
+      <br>React.js
+    </td>
 </tr>
 
 </table>
