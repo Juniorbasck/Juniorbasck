@@ -1,5 +1,12 @@
 ### Hey there! My name is junior my GitHub!😁👋
 
+<p align="center">
+  <img src="https://wakatime.com/badge/user/65d2f429-0fff-4030-bb0c-babf96b02db1.svg" alt="waka"> • 
+  <img src="https://visitor-badge.glitch.me/badge?page_id-juniorbasck" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/juniorbasck?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/juniorbasck?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
+
 ##
 
 - 🔭 I'm a student of information systems in Federal University of São Paulo, currently i'm focused on developing my skills in programming. I am currently studying front-end with React, Vue.js, HTML, CSS.
