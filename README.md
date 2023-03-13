@@ -65,7 +65,7 @@
     </td>
     <td align="center" width="96">
       <a href="#git" >
-        <img src="https://skillicons.dev/icons?i=c++" width="48" height="48" alt="C" />
+        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
       </a>
       <br>C++
     </td>
