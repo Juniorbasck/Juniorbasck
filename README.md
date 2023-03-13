@@ -3,7 +3,7 @@
 <img  src="assests/borderseperator.gif">
 
 ##
-### Hey there! My name is junior my GitHub!😁👋
+### Welcome to my GitHub! 😁👋
 
 - 🔭 I'm a student of information systems in Federal University of São Paulo, currently i'm focused on developing my skills in programming. I am currently studying front-end with React, Vue.js, HTML, CSS.
 
