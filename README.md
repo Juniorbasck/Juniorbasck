@@ -5,7 +5,9 @@
 ##
 ### Welcome to my GitHub! 😁👋
 
-- 🔭 I'm a student of information systems in Federal University of São Paulo and I'm also an intern in RevOps at forSign, currently i'm focused on developing my skills in programming, studying front-end with React, Vue.js, HTML, CSS.
+- 🔭 I'm a student of information systems in Federal University of São Paulo and, currently i'm focused on developing my skills in programming, studying front-end with React, Vue.js, HTML, CSS and for the backend C#
+
+- 🌎 At the moment I am studying abroad doing a semester of my graduation at the Instituto Politécnico de Bragança in Portugal🇵🇹
 
 ##
 
