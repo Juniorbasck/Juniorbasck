@@ -5,7 +5,7 @@
 ##
 ### Welcome to my GitHub! 😁👋
 
-- 🔭 I'm a student of information systems in Federal University of São Paulo and Software Engineer at siteware, currently i'm focused on developing my skills in programming, studying front-end with React, Vue.js, HTML, CSS and for the backend C#
+- 🔭 I'm a student of information systems in Federal University of São Paulo and Software Engineer at Siteware, currently i'm focused on developing my skills in programming, studying front-end with React, Vue.js, HTML, CSS and for the backend C#
 
 ##
 
