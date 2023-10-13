@@ -87,10 +87,3 @@
  <a id="linkedin" href="https://www.linkedin.com/in/adilson-junior-9b960219b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="_" />
   </a>
-
-  
-  ## :snake: Activities :
-   ![Snake animation](https://github.com/Juniorbasck/Juniorbasck/blob/output/github-contribution-grid-snake.svg)
-    
- 
-    
