@@ -3,9 +3,8 @@
 <img  src="assests/borderseperator.gif">
 
 ##
-### Welcome to my GitHub! 😁👋
-
 <div align="center">
+  ### Welcome to my GitHub! 😁👋
   - 🔭 I'm a student of Information Systems in Federal University of São Paulo and Software Engineer at Siteware, currently i'm focused on developing my skills in programming, studying C# and Java Spring Boot!!
 </div>
   
