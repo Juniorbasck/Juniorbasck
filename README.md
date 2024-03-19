@@ -10,7 +10,7 @@
 </div>
 <div align="center">
   <h4>
-    - 🔭 I'm a student of Information Systems in Federal University of São Paulo and Software Engineer at Siteware, currently i'm focused on developing my skills in programming, studying C# and Java Spring Boot!!!
+    - 🔭 I'm a student of Information Systems in Federal University of São Paulo and Software Engineer at Siteware, currently i'm focused on developing my skills in programming, studying C# and Java Spring Boot!!
   </h4>
 </div>
   
