@@ -1,4 +1,4 @@
-
+w
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Junior+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Junior Welcome to my Profile! animated typed out">
 <img  src="assests/borderseperator.gif">
 
@@ -10,7 +10,7 @@
 </div>
 <div align="center">
   <h4>
-    - 🔭 I'm Software Engineer and student of Information Systems in Federal University of São Paulo, currently i'm focused on developing my skills in programming, studying Pytho and clojure!!
+    - 🔭 I'm Software Engineer and student of Information Systems in Federal University of São Paulo, currently i'm focused on developing my skills in programming, studying Pytho and clojure!!!
   </h4>
 </div>
   
