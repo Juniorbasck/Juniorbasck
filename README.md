@@ -9,7 +9,7 @@
 </div>
 <div align="center">
   <h4>
-    - 🔭 I'm Software Engineer and student of Information Systems in Federal University of São Paulo, currently i'm focused on developing my skills in programming, studying Pytho and clojure!!!
+    - 🔭 I'm Software Engineer and student of Information Systems in Federal University of São Paulo, currently i'm focused on developing my skills in programming, studying Python and clojure!!!
   </h4>
 </div>
   
