@@ -62,9 +62,7 @@
   </tr>
 </table>
 
-## Current Stack:💻
-<br><br>
-
+## Current Stack
 - **Programming:** C#, .NET, Java, Ruby, Node.js
 - **Front-end:** Angular, React, Next.js
 - **Mobile:** React Native
@@ -73,8 +71,6 @@
 - **Agile Practices:** TDD, CI/CD, Pair Programming, Kanban, Scrum
 
 ## What I'm Learning:
-
-<br><br>
 - **Programming:** Clojure, ClojureScript, Go
 - **Topics:** Dynamic Programming, Software Architecture, DDD
 
