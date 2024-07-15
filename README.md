@@ -4,23 +4,8 @@
 ##
 <div align="center">
   <h4>
-    - 🔭 I'm Software Engineer and student of Information Systems in Federal Institute of São Paulo, currently i'm focused on developing my skills in programming!
+      🔭 I'm Software Engineer and student of Information Systems in Federal Institute of São Paulo, currently i'm focused on developing my skills in programming!
   </h4>
-  <h4>
-     **Current Stack:** 
-        - Programming: C#, .NET, Java, Ruby, Node.js
-        - Front-end: Angular, React and Next.js
-        - Mobile: React Natiive
-        - Infra: Docker, Kubernetes, GCP and Grafana
-        - Databases: PostgreSQL, SQL server, MongoDB, Firebase, CosmosDB
-        - Agile practices: TDD, CI/CD, Pair Programming, Kanban, Scrum
-        
-        **What I'm learning:**
-        
-        - Programming: Clojure, ClojureScript and Go
-        - Topics: ADynamic Programming, Software Architecture and DDD
-  </h4>
-  
 </div>
   
 ##
