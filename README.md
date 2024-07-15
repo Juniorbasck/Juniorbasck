@@ -64,7 +64,7 @@
 
 # Current Stack: 💻
 - **Programming:** C#, .NET, Java, Ruby, Node.js
-- **Front-end:** Angular, React, Next.js
+- **Front-end:** Angular, React, Next.jsa, Astro.js
 - **Mobile:** React Native
 - **Infra:** Docker, Kubernetes, GCP, Grafana
 - **Databases:** PostgreSQL, SQL Server, MongoDB, Firebase, CosmosDB
