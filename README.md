@@ -4,8 +4,9 @@
 ##
 <div align="center">
   <h4>
-      🔭 I'm a Software Engineer and student of Information Systems at the Federal Institute of São Paulo. Always focused on developing my skills!
+      🔭 I'm a Software Engineer and student of Information Systems at the Federal Institute of São Paulo. 
   </h4>
+  <h4>Always focused on developing my skills!</h4>
 </div>
 
 ##
