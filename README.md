@@ -1,11 +1,21 @@
 ##
 <div align="center">
   <h4>
-      🎓 Information Systems at <a href="">Federal institute of São Paulo</a>
-      🍀 Brazilian, software engineer.
-      🏌️‍♀️ Listening to music, cooking, playing sports and coding.
+    <li>
+      <ul>
+        🎓 Information Systems at <a href="">Federal institute of São Paulo</a>
+      </ul>
+      <ul>
+        🍀 Brazilian, software engineer. 
+      </ul>
+      <ul>
+        🏌️‍♀️ Listening to music, cooking, playing sports and coding.  
+      </ul>
+      <ul>
+        💻 Always focused on developing my skills!  
+      </ul>
+    </li>
   </h4>
-  <h4>Always focused on developing my skills!</h4>
 </div>
 
 ##
