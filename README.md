@@ -1,7 +1,9 @@
 ##
 <div align="center">
   <h4>
-      🔭 I'm a Software Engineer and student of Information Systems at the Federal Institute of São Paulo. 
+      🎓 Information Systems at <a href="">Federal institute of São Paulo</a>
+      🍀 Brazilian, software engineer.
+      🏌️‍♀️ Listening to music, cooking, playing sports and coding.
   </h4>
   <h4>Always focused on developing my skills!</h4>
 </div>
