@@ -1,7 +1,7 @@
 ##
 <div align="center">
   <h4>
-    <ol>
+    <ul>
       <li>
         🎓 Information Systems at <a href="">Federal institute of São Paulo</a>
       </li>
@@ -14,7 +14,7 @@
       <li>
         💻 Always focused on developing my skills!  
       </li>
-    </ol>
+    </ul>
   </h4>
 </div>
 
