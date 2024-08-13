@@ -1,9 +1,7 @@
 ##
 <div align="center">
-  <h4>
-    🎓 Information Systems at <a href="">Federal Institute of São Paulo</a>
-  </h4>
-  <ul>
+  <ul style="list-style-type: none; padding: 0; margin: 0;">
+    <li>🎓 Information Systems at <a href="">Federal Institute of São Paulo</a></li>
     <li>🍀 Brazilian, software engineer.</li>
     <li>🏌️‍♀️ Listening to music, cooking, playing sports, and coding.</li>
     <li>💻 Always focused on developing my skills!</li>
