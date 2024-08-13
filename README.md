@@ -1,7 +1,7 @@
 ##
 <div align="center">
   <h4>
-    <ul>
+    <ul align="center">
       <li>
         🎓 Information Systems at <a href="">Federal institute of São Paulo</a>
       </li>
