@@ -1,20 +1,20 @@
 ##
 <div align="center">
   <h4>
-    <li>
-      <ul>
+    <ol>
+      <li>
         🎓 Information Systems at <a href="">Federal institute of São Paulo</a>
-      </ul>
-      <ul>
+      </li>
+      <li>
         🍀 Brazilian, software engineer. 
-      </ul>
-      <ul>
+      </li>
+      <li>
         🏌️‍♀️ Listening to music, cooking, playing sports and coding.  
-      </ul>
-      <ul>
+      </li>
+      <li>
         💻 Always focused on developing my skills!  
-      </ul>
-    </li>
+      </li>
+    </ol>
   </h4>
 </div>
 
