@@ -1,17 +1,10 @@
 ##
 <div align="center">
-  <ul style="list-style-type: none; padding: 0; margin: 0;">
-    <li>🎓 Information Systems at <a href="">Federal Institute of São Paulo</a></li>
-    <li>🍀 Brazilian, software engineer.</li>
-    <li>🏌️‍♀️ Listening to music, cooking, playing sports, and coding.</li>
-    <li>💻 Always focused on developing my skills!</li>
-  </ul>
+  - :mortar_board: Information Systems at [Federal Institute of São Paulo](https://www.ufabc.edu.br/).
+  - :four_leaf_clover: Brazilian, software engineer.
+  - 🏌️‍♀️ Listening to music, cooking, playing sports, and coding.
+  - :computer: Always focused on developing my skills!
 </div>
-
-- :mortar_board: Computer Science student at [Federal University of ABC](https://www.ufabc.edu.br/).
-- :four_leaf_clover: Brazilian, software engineer.
-- :computer: Javascript, Typescript, Java, Python.
-- 🍝 Listening to music, cooking, and coding.
 
 
 ##
