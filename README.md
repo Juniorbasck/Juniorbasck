@@ -25,10 +25,7 @@
 # What I'm Learning:
 - **Programming:** Clojure, ClojureScript, Go
 - **Topics:** Dynamic Programming, Software Architecture, DDD
-
-
-<br> <br>
-
-<h2><img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> Contacts:</h2>
+  
 <a href="mailto:adilson.juniorcomunicacao@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/adilson-junior-9b960219b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/adilson-junior-9b960219b/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=Instagram&logoColor=white" alt="LinkedIn" /></a>
