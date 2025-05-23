@@ -1,7 +1,7 @@
   - :mortar_board: Information Systems at [Federal Institute of São Paulo](https://www.ifsp.edu.br/).
   - :four_leaf_clover: Brazilian, software engineer.👋🏾
   - 🏌️‍♀️ Listening to music, cooking, sports, and coding.
-  - :computer: Always focused on developing my skills!
+  - :computer: Always focused on developing my skills!!
 
 <br>
 <a href="mailto:adilson.juniorcomunicacao@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
