@@ -1,4 +1,4 @@
-  - :mortar_board: Information Systems at [Federal Institute of São Paulo](https://www.ifsp.edu.br/).
+  - :mortar_board: Information Systems at [Federal Institute of São Paulo](https://www.ifsp.edu.br/index.php).
   - :four_leaf_clover: Brazilian, software engineer.👋🏾
   - 💼 Building software at **XP Inc.** 
   - 🏌️‍♀️ Listening to music, cooking, sports, and coding.
